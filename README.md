@@ -11,14 +11,6 @@ This repository contains a personal portfolio website for Poonam Bora.
 
 - Updated `index.html` to link the new CSS and JavaScript files.
 
-## Files
-
-- `index.html` - main website markup
-- `styles.css` - site styles and responsive layout
-- `script.js` - interactive behavior for the menu and scroll reveal
-- `poonam.jpg` - profile image used by the site
-- `Poonam_Bora_Resume.pdf` - resume download link referenced from the page
-
 ## Notes
 
 - All files are located in the same folder for a simple project structure.
